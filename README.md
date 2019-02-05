@@ -1,5 +1,8 @@
 # ir_project1
+This program runs different techniques for searching queries.
 
+This program runs tf-idf to determine the relevance of a term to a given query. 
+This program also contains a word and document index data sturcture for each document and each word.
 
 # Local Commit History 
 commit 398ff77aa15c30a8e10f27834c88d47d6bc87cae (HEAD -> master, origin/master)
